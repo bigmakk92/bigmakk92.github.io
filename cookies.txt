@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.gladiatorhomeimprovement.com	TRUE	/	FALSE	1999999999	__cf_bm	vX1H0BrhI4cuBRHhi81LIEIsaOP6PXu8LcFtNpwjOfo-1717545172-1.0.1.1-mcumxweCZvp6oGhDtcLBVFVeSCfRsvsrwUkPQMyu6WFLNhzf5UPFKPptNof12V8MxUySkMAEzD8bx31M3xU_aQ
+www.gladiatorhomeimprovement.com	TRUE	/	FALSE	1999999999	SameSite	None
+
